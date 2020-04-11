@@ -13,4 +13,4 @@
 解决办法：在Project Structure中的Libraries添加tool.jar（来源是jdk的lib）
 
 2.报错UNIXToolkit类和FontConfigManager
-解决办法：直接把报错的包com.sun.java.swing.plaf.删除
+- 解决办法：直接把报错的包com.sun.java.swing.plaf.删除
