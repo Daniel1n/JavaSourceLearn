@@ -1,7 +1,7 @@
 # JavaSourceLearn
 观看B站up主CodeSheep
--《Java源码盘起来！演示搭建JDK源码阅读环境，利用IDEA搭建Java源码阅读环境视频教程》
-- 学习如何搭建JDK源码的阅读环境
+<br> 《Java源码盘起来！演示搭建JDK源码阅读环境，利用IDEA搭建Java源码阅读环境视频教程》
+<br> 学习如何搭建JDK源码的阅读环境
 
 前面的步骤都没问题，唯独发现两个问题
 
